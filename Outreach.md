@@ -1,7 +1,7 @@
 ---
 layout: page
 bigimg:
-  - "/img/Sikkim.png" : "Spiti Valley, India. 2015."
+  - "/img/Sikkim2.png" : "Sikkim, India. 2015."
 --- 
 
 Below are a couple of fun talks I have given about my research to various audiences. Enjoy! 
