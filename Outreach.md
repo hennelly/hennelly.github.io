@@ -22,7 +22,7 @@ I had a fun conversation all about Indian wolves with The Grasslands Trust in In
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jo60ZxHcrO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-**Webinar at University of Okara in Punjab**
+**Webinar at University of Okara in Punjab, Pakistan**
 
 In the winter of 2022 I gave a webinar over Zoom about our gray wolf research at the University of Okara in Pakistan. This webinar was organized by Dr. Hira Fatima who had previously spent 6 months in our lab at UC Davis in the Fall of 2018. It was a lot of fun to share our research and answer questions from students.   
 
