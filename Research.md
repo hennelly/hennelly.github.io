@@ -33,10 +33,7 @@ More broadly, gray wolves in Asia provide a system to study the processes influe
 Over the last three years, I've been working with collaborators from NGOs and universities in Pakistan to understand wolf distribution and evolutionary history. This information will help us answer both evolutionary questions on how genomically distinct lineages maintain their distinctiveness as well as conservation questions related to gray wolves. Gray wolves are especially rare and endangered in Pakistan, and this research will provide key information for delineating populations for conservation effort. Additionally, Pakistan is centered within prominent contact zones for other mammal species, and this study will yield fundamental insights into processes that have shaped regional species diversity at this biogeographic junction of West, South, and Central Asia.
 
 
+![me](/img/Gray_wolf_Lineage_distribution.jpg)
 
-
-
-
-
-
+Figure 3. Lineage distribution of the three main lineages of gray wolves. 
 
