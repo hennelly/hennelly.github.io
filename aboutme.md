@@ -22,7 +22,7 @@ My current thesis research is broadly on using whole genome data to study the ev
 </p>
 
 <p> 
-  Before starting my Ph.D at University of California, Davis, I was a research technician with the Wyoming Cooperative Fish and Wildlife Research Unit and a Project Biologist for the <a href="https://www.woodriverwolfproject.org/">Wood River Wolf Project</a> based in Idaho. Recently, I've joined the [IUCN Canid Specialist Group](https://www.canids.org/) to help translate my research into policy and conservation. In my freetime, I enjoy spending time outdoors -- whether hiking, camping, or observing wildlife. 
+  Before starting my Ph.D at University of California, Davis, I was a research technician with the Wyoming Cooperative Fish and Wildlife Research Unit and a Project Biologist for the <a href="https://www.woodriverwolfproject.org/">Wood River Wolf Project</a> based in Idaho. Recently, I've joined the <a href="https://www.canids.org/">IUCN Canid Specialist Group</a> to help translate my research into policy and conservation. In my freetime, I enjoy spending time outdoors -- whether hiking, camping, or observing wildlife. 
 </p>
 
 
