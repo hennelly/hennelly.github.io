@@ -5,7 +5,7 @@ bigimg:
 ---
 **Hello!**
 
-My name is Lauren Hennelly and I'm a Ph.D Candidate in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu/) at the University of California, Davis.
+My name is Lauren Hennelly and I'm currently a Ph.D Candidate in the [Mammalian Ecology and Conservation Unit](https://mecu.ucdavis.edu/) at the University of California, Davis. I will be starting as a National Science Foundation Postdoctoral Fellow at University of Copenhagen in the Fall of 2022.
 
 I use genomic data to study the evolution and ecology of various species, with a focus on mammals. Much of my research is centered on understanding the evolutionary processes that impact genomic variation across populations and between species. I also have a strong interest in studying how behavior varies across different populations. Through this research, I hope to provide important information to guide conservation management and help create effective conservation programs for various species.
 
