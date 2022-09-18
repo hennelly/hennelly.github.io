@@ -5,4 +5,4 @@ bigimg:
 
 ---
 
-Here's a recent version of my CV:  [download the PDF here](/img/Lauren Hennelly CV April 2022.pdf).
+Here's a recent version of my CV:  [download the PDF here](/img/Lauren Hennelly CV Sept 2022.pdf).
