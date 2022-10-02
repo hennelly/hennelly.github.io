@@ -4,7 +4,10 @@ bigimg:
   - "/img/Spiti.png" : "Spiti Valley, India. 2015."
 --- 
 
-My research revolves around understanding the evolutionary processes that shape genomic diversity of species and between their populations. For this, I use genomic tools, computational methods, and collaborate with a wide range of researchers to answer questions on the evolution and ecology of species, focused on mammals. I am invested in ensuring that the scientific knowledge generated from this research is applied to conservation. 
+My research revolves around understanding the evolutionary processes that shape genomic diversity of species and between their populations. For this, I use genomic tools, computational methods, and collaborate with a wide range of researchers to answer questions on the evolution and ecology of species, focused on mammals. I am deeply interest in ensuring that the scientific knowledge generated from this research is applied to conservation. 
+
+**POSTDOCTORAL RESEARCH - LOCAL ADAPTATION IN GRAY WOLVES**
+
 
 
 **GRAY WOLVES OF SOUTH AND CENTRAL ASIA**
