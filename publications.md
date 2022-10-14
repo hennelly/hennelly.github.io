@@ -53,6 +53,9 @@ threats from sympatric feral dogs. *Canid Biology & Conservation* 18(9): 33-36. 
 
 ### Popular science publications
 
+**Hennelly LM**. The ancient Indian wolf: the world’s most endangered and
+evolutionarily distinct gray wolf. International Wolf Magazine. Spring 2022 issue
+
 **Hennelly LM**. 2018. The little-known wolves of South Asia. UK Wolf
 Conservation Trust’s *Wolf Print Magazine*. March 2018 Issue, pages 26-28 [Link](https://ukwct.org.uk/wp/issue63.pdf)
 
