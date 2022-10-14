@@ -8,9 +8,9 @@ My research revolves around understanding the evolutionary processes that shape 
 
 **POSTDOCTORAL RESEARCH - LOCAL ADAPTATION IN GRAY WOLVES**
 
+Will be updated soon. 
 
-
-**GRAY WOLVES OF SOUTH AND CENTRAL ASIA**
+**PhD RESEARCH: GRAY WOLVES OF SOUTH AND CENTRAL ASIA**
 
 My Ph.D thesis focuses on using genomics to further our knowledge on the evolutionary history of gray wolves in Asia. Gray wolves are comprised of three major mitochondrial lineages. Most gray wolves occurring from Europe to North America share recent (<100kya) maternal origins, and correspond to a Holarctic clade. The Tibetan and Indian mitochondrial lineages are deeply divergent (200-700kya) and geographically restricted, respectively, to the Indian subcontinent and the Tibetan plateau (Figure 1). This far, no genome-wide analyses have included wolves corresponding to the mitochondrial Indian clade, and therefore it is unknown whether these wolves are genomically distinct. In 2003, Indian wolves were thought to number around 2,000 to 3,000 individuals in India and an unknown number of individuals in a declining population in Pakistan. Therefore, this genomic work has significant conservation implications for conserving the remaining Indian wolf populations. To address some of these questions, I have been collaborating with the Wildlife Institute of India for the last ~10 years and with collaborators in Pakistan over the last 3 years to investigate the genomic distinctiveness, evolutionary history, and ecology of wolves in Central and South Asia. 
 
