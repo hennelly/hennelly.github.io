@@ -9,7 +9,7 @@ My name is Lauren Hennelly and I'm a National Science Foundation Postdoctoral Fe
 
 I use genomic tools to study the evolution and ecology of various species. Much of my research is centered on understanding the evolutionary and ecological processes that impact genomic variation across populations and between species. I also have a strong interest in studying behavioral ecology and how behavior varies across different populations. Through this research, I work with various collaborators to provide important information to guide conservation management and help create effective conservation programs for various species. 
 
-My work has mainly involved studying gray wolves and other canid species. Recently, I've joined the <a href="https://www.canids.org/">IUCN Canid Specialist Group</a> to help translate my research into policy and conservation
+My work has mainly involved studying gray wolves and other canid species. Recently, I've joined the <a href="https://www.canids.org/">IUCN Canid Specialist Group</a> to help translate my research into policy and conservation.
 
 
 
